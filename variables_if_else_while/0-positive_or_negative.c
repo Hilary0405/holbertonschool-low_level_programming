@@ -12,8 +12,7 @@ int main(void)
 	int n;
 
 	srand(time(0));
-/*	n = rand() - RAND_MAX / 2;*/
-	n = 98;
+	n = 0;
 
         if (n > 0)
 	{
