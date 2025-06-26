@@ -20,4 +20,13 @@ This program prints the alphabet in lower case followed by a new line, except q 
 This program that prints all single digit numbers of base 10 starting from 0,followed by a new line.
 
 ## 6. Numberz
-This program prints all single digit numbers to bse 10 followed by a new line, using putchart twice only
+This program prints all single digit numbers to bse 10 followed by a new line, using putchart twice only.
+
+## 7. SMile in the mirror
+THis program prints the lowercase alphabet in reverser, followed by a new line using putchar command twice only.
+
+## 8. Hexadecimal
+This program prints all numbers of base 16 in lowercase, followed by a new line using putchart twice only.
+
+## 9.Patience,persistence and perspiration make an unbeatable combination for success
+This program prints all possible combiantionsof single digit numbers. numbers must be separated by comas followed by space, in ascending order using command putchart twice only.
