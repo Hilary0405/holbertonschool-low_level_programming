@@ -13,5 +13,8 @@ This program prints the alphabet in lowercase, fllowed by a new line. Using only
 ## 3. alphAbet
 This program prints the alphabet in lowercase and then in uppercase, fllowed by a new line. Using only putchart twice.
 
-## 4 When i was having that alphabet soup, i never thought that it would pay off
-That program prints the alphabet in lower case followed by a new line, except q and e and using only putchart twice.
+## 4. When i was having that alphabet soup, i never thought that it would pay off
+This program prints the alphabet in lower case followed by a new line, except q and e and using only putchart twice.
+
+## 5.Numbers
+This program that prints all single digit numbers of base 10 starting from 0,followed by a new line.
