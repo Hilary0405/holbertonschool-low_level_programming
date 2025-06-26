@@ -14,15 +14,6 @@ int main(void)
 		putchar(i < 10 ? i + '0' : i - 10 + 'a');
 		i++;
 	}
-
-	i = 97;
-
-	while (i <= 102)
-	{
-		putchar(i);
-		i++;
-	}
 	putchar('\n');
-
 	return (0);
 }
