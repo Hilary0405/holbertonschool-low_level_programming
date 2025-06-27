@@ -7,3 +7,4 @@ This project is part of the Holberton School curriculum.
 This program prints `_putchar` followed by a new line using the `_putchar` function provided.
 
 ## Task 1 :sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game
+This programs prints the alphabet using only _putchar and follow with  a new line
