@@ -7,4 +7,4 @@ Hello, world
 Variable, if, else, while
 
 # Tache 3
-Functions, nested loops
+Functions, nested loop
