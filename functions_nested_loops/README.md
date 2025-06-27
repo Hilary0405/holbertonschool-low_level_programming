@@ -8,3 +8,6 @@ This program prints `_putchar` followed by a new line using the `_putchar` funct
 
 ## Task 1 :sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game
 This programs prints the alphabet using only _putchar and follow with  a new line
+
+## Task 2 : 10x alphabet
+This program print the alphabet 10 times, using putchart twice only
