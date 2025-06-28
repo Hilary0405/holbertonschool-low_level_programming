@@ -1,14 +1,14 @@
 #include "main.h"
 
 /**
- * main - check the code.
+ * main - Entry point as tester
  *
  * Return: Always 0.
  */
 int main(void)
 {
 	int r;
-
+	
 	r = _isalpha('H');
 	_putchar(r + '0');
 	r = _isalpha('o');
@@ -20,5 +20,3 @@ int main(void)
 	_putchar('\n');
 	return (0);
 }
-
-
