@@ -18,5 +18,13 @@ This function checks the lowercase character. return 1 if true or 0.
 # Task 4 : Isalpha.c
 This function check if the character is alphabetic and return 1 if yes and 0 if its not
 
-#Task 5 : Sign
+# Task 5 : Sign
 This function prints the sign of a number
+
+# Task 6 : Absolute
+This function print the absolut value of an integar
+
+# Task 7 : Last digit
+This function print the last digit of a number
+
+# Task 8 : Im federal agent Jack Bauer, and today is the longest day ofml
