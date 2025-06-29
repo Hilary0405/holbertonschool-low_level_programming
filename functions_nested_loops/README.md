@@ -28,3 +28,6 @@ This function print the absolut value of an integar
 This function print the last digit of a number
 
 # Task 8 : Im federal agent Jack Bauer, and today is the longest day ofml
+
+# Task 9 : Learn your times table
+This function print the 9 times table
