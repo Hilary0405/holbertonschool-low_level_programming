@@ -31,3 +31,9 @@ This function print the last digit of a number
 
 # Task 9 : Learn your times table
 This function print the 9 times table
+
+# Task 10 : Add
+This function add two integers and return their addition
+
+# Task 11 : 98 Battery street, the og
+This function prints all the natural nuber from n to 98
