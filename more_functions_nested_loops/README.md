@@ -6,4 +6,12 @@ This project covers more advanced C concepts including functions and nested loop
 Checks if a character is uppercase.
 
 # Task 1: isdigit
-Thsi function checks for a digit (0 to 9)
+This function checks for a digit (0 to 9)
+
+#Task 2: collaboration is multiplication
+This function multiplies two integers
+
+#Task 3: The numbers speak for themselves
+This function prints the numbers from 0 to 9, followed by a new line
+
+#Task 4:
