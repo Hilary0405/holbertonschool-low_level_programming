@@ -9,8 +9,7 @@
  */
 int _atoi(char *s)
 {
-	int i = 0, sign = 1, num_started = 0;
-	unsigned int result = 0;
+	int i = 0, sign = 1, result = 0, num_started = 0;
 
 	while (s[i] != '\0')
 	{
@@ -28,6 +27,6 @@ int _atoi(char *s)
 		i++;
 	}
 
-	return (sign * (int)result);
+	return (sign * result);
 }
 
