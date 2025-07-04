@@ -24,3 +24,9 @@ This function prints half of a string, followed by a new line
 
 # Task 8: Arrays are not pointers
 This function that prints n elements of an array of integers, followed by a new line
+
+# Task 9: strcpy
+This function copies the string pointed to by src including the terminating null byte (\0)
+
+# Task 10:Great leaders are willing to sacrifice the numbers to save the people...
+This function convert a string to an integer
