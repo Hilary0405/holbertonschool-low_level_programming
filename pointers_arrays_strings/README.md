@@ -4,13 +4,17 @@ This function takes a pointer to an int as parameter and updates the value it po
 # Task 1: Dont swap horses in crossing a stream
 This function swaps the value of two integers
 
-# Task 2: 
+# Task 2:
+THis function returns the le,ght of a string 
 
 # Task 3:
+This function that prints a string, followed by new line
 
 # Task 4:
+This function prints a string in reverse followed by a new line
 
 # Task 5:
+This that reverse a string 
 
 # Task 6:
 
