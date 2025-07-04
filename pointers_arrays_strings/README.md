@@ -17,7 +17,7 @@ This function prints a string in reverse followed by a new line
 This that reverse a string 
 
 # Task 6:
-
+This function prints every other character of a string, starting with the first character, followed by a new line.
 # Task 7:
 
 # Task 8:
