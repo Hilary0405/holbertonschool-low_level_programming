@@ -21,3 +21,11 @@ Pointers, arrays and strings
 
 # Task 3
 More pointers arrays and strings 
+
+### C PART 3 
+
+# Task 1
+Even more pointers, arrays and strings
+
+# Task 2
+Recursions
