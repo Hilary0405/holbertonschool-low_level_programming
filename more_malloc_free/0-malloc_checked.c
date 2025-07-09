@@ -1,27 +1,19 @@
-#include "main.h"
 #include <stdlib.h>
+#include "main.h"
 
 /**
- * _calloc - alloue de la mémoire pour un tableau et initialise à 0
- * @nmemb: nombre d’éléments
- * @size: taille de chaque élément
+ * malloc_checked - alloue de la mémoire
+ * @b: taille à allouer
  *
- * Return: pointeur vers la mémoire allouée, ou NULL si erreur
+ * Return: pointeur vers la mémoire, ou exit avec code 98 si échec
  */
-void *_calloc(unsigned int nmemb, unsigned int size)
+void *malloc_checked(unsigned int b)
 {
-	char *ptr;
-	unsigned int i;
+	void *ptr;
 
-	if (nmemb == 0 || size == 0)
-		return (NULL);
-
-	ptr = malloc(nmemb * size);
+	ptr = malloc(b);
 	if (ptr == NULL)
-		return (NULL);
-
-	for (i = 0; i < nmemb * size; i++)
-		ptr[i] = 0;
+		exit(98);
 
 	return (ptr);
 }
